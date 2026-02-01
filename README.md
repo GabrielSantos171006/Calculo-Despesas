@@ -1,4 +1,4 @@
-# 💸 Contador de Despesas
+# 💸 Contador de Despesas  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Um sistema simples e eficiente via linha de comando (CLI) desenvolvido em Python para o controle de gastos pessoais diários e semanais.
 
@@ -52,9 +52,3 @@ python main.py
 O uso de letras resulta na quebra e encerramento do programa **Não utilize letras**
 
 Este projeto utiliza armazenamento em memória (listas Python). Isso significa que **ao fechar o programa (Sair do programa / Opção 0), os dados inseridos serão perdidos**.
-
----
-
-<p align="center">
-  Feito com 🐍 Python
-</p>
